@@ -47,3 +47,36 @@ python -m streamlit run app.py
 ### Project Status
 
 Developed as part of a data analysis internship project.
+
+## Project Structure
+
+```text
+nassau-shipping-analysis/
+├── app.py
+├── inspect_dataset.py
+├── requirements.txt
+├── README.md
+├── .gitignore
+├── src/
+│   ├── data_cleaning.py
+│   ├── exploratory_analysis.py
+│   ├── visualizations.py
+│   ├── route_analysis.py
+│   ├── route_benchmarking.py
+│   └── geographic_analysis.py
+└── outputs/
+    ├── sales_by_region.png
+    ├── shipments_by_mode.png
+    ├── top_products_by_sales.png
+    ├── region_summary.csv
+    ├── shipping_mode_summary.csv
+    ├── top_products.csv
+    ├── route_summary.csv
+    ├── top_10_routes_by_volume.csv
+    ├── bottom_10_routes_by_volume.csv
+    ├── shipping_data_with_factories.csv
+    └── geographic_bottleneck_analysis.csv
+```
+
+**Note:** The original dataset is not included in this repository pending approval to share it.
+
