@@ -1,0 +1,11 @@
+Factory,State/Province,Region,Shipment_Records,Unique_Orders,Average_Lead_Time,Lead_Time_Std,Total_Sales,Volume_Rank
+Lot's O' Nuts,Wyoming,Pacific,1,1,1274.0,,13.96,72
+Secret Factory,Connecticut,Atlantic,1,1,1638.0,,2.5,72
+Secret Factory,Delaware,Atlantic,1,1,909.0,,60.0,72
+Secret Factory,Minnesota,Interior,1,1,909.0,,5.0,72
+Secret Factory,Mississippi,Gulf,1,1,908.0,,80.0,72
+Secret Factory,Nebraska,Interior,1,1,906.0,,2.5,72
+Secret Factory,New Hampshire,Atlantic,1,1,1641.0,,6.25,72
+Secret Factory,South Carolina,Gulf,1,1,909.0,,6.25,72
+Secret Factory,Utah,Pacific,1,1,1275.0,,100.0,72
+Secret Factory,Vermont,Atlantic,1,1,1273.0,,7.5,72

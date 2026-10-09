@@ -1,0 +1,60 @@
+State/Province,Region,Shipment_Records,Unique_Orders,Total_Sales,Average_Reported_Lead_Time
+California,Pacific,2001,1686,27917.4,1318.43
+New York,Atlantic,1128,942,15541.03,1324.49
+Texas,Interior,985,833,13416.09,1310.31
+Pennsylvania,Atlantic,587,487,8027.03,1324.2
+Washington,Pacific,506,432,6921.15,1360.66
+Illinois,Interior,492,433,6898.96,1323.15
+Ohio,Atlantic,469,392,6768.95,1325.73
+Florida,Gulf,383,319,4804.02,1311.4
+Michigan,Interior,255,209,3331.0,1300.56
+North Carolina,Gulf,249,216,3450.86,1334.88
+Arizona,Pacific,224,190,3587.55,1309.21
+Virginia,Gulf,224,185,3177.84,1229.12
+Georgia,Gulf,184,151,2692.84,1338.64
+Tennessee,Gulf,183,151,2383.56,1391.49
+Colorado,Pacific,182,140,2544.91,1337.19
+Indiana,Interior,149,123,2002.78,1381.5
+Kentucky,Gulf,139,112,1880.63,1328.45
+Massachusetts,Atlantic,135,106,1806.99,1308.32
+New Jersey,Atlantic,130,108,1578.35,1338.33
+Oregon,Pacific,124,105,1920.15,1267.71
+Wisconsin,Interior,110,91,1920.5,1343.0
+Maryland,Atlantic,105,80,1476.99,1356.78
+Delaware,Atlantic,96,80,1323.59,1269.75
+Minnesota,Interior,89,75,1161.46,1335.47
+Connecticut,Atlantic,82,74,980.57,1357.55
+Oklahoma,Interior,66,56,877.65,1301.36
+Missouri,Interior,66,56,882.83,1339.86
+Alabama,Gulf,61,53,995.11,1291.28
+Arkansas,Gulf,60,48,891.94,1285.73
+Ontario,Atlantic,58,41,814.57,1247.47
+Rhode Island,Atlantic,56,46,805.76,1324.8
+Utah,Pacific,53,44,856.41,1253.0
+Mississippi,Gulf,53,43,844.18,1266.57
+Quebec,Atlantic,50,38,597.68,1288.24
+South Carolina,Gulf,42,34,601.07,1255.43
+Louisiana,Gulf,42,38,525.21,1263.79
+Nevada,Pacific,39,36,759.46,1226.79
+Nebraska,Interior,38,33,483.53,1311.24
+New Mexico,Pacific,37,34,502.71,1441.84
+Iowa,Interior,30,26,400.37,1443.9
+New Hampshire,Atlantic,27,26,428.27,1300.04
+Alberta,Pacific,26,22,530.32,1274.08
+Kansas,Interior,24,23,263.18,1273.29
+British Columbia,Pacific,22,22,290.9,1290.32
+Idaho,Pacific,21,18,225.25,1342.57
+Montana,Pacific,15,12,202.11,1273.8
+Manitoba,Interior,12,8,138.25,1455.33
+South Dakota,Interior,12,8,151.34,1395.92
+Vermont,Atlantic,11,10,162.44,1438.91
+Prince Edward Island,Atlantic,10,8,130.1,1420.3
+District of Columbia,Atlantic,10,8,142.25,1347.7
+Maine,Atlantic,8,7,126.48,1137.12
+New Brunswick,Atlantic,8,8,172.72,1273.25
+North Dakota,Interior,7,5,109.66,1637.86
+Nova Scotia,Atlantic,6,6,87.5,1272.67
+Newfoundland and Labrador,Atlantic,6,5,162.0,1216.17
+West Virginia,Atlantic,4,4,63.97,1638.0
+Saskatchewan,Pacific,2,2,29.25,1457.0
+Wyoming,Pacific,1,1,13.96,1274.0

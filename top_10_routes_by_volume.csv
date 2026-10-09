@@ -1,0 +1,11 @@
+Factory,State/Province,Region,Shipment_Records,Unique_Orders,Average_Lead_Time,Lead_Time_Std,Total_Sales,Volume_Rank
+Lot's O' Nuts,California,Pacific,1125,944,1316.91,265.37,15044.9,1
+Wicked Choccy's,California,Pacific,823,689,1320.33,262.5,11394.0,2
+Lot's O' Nuts,New York,Atlantic,645,544,1330.52,249.26,8757.81,3
+Lot's O' Nuts,Texas,Interior,569,479,1310.46,260.34,7642.34,4
+Wicked Choccy's,New York,Atlantic,436,353,1311.88,245.01,5518.25,5
+Wicked Choccy's,Texas,Interior,388,326,1315.61,272.94,5140.5,6
+Lot's O' Nuts,Pennsylvania,Atlantic,331,270,1315.06,260.48,4338.55,7
+Lot's O' Nuts,Washington,Pacific,269,230,1343.96,274.98,3492.91,8
+Lot's O' Nuts,Illinois,Interior,267,235,1319.93,268.39,3539.21,9
+Lot's O' Nuts,Ohio,Atlantic,262,218,1334.11,260.44,3472.74,10
