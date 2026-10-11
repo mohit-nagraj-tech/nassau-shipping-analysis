@@ -76,7 +76,8 @@ nassau-shipping-analysis/
     ├── bottom_10_routes_by_volume.csv
     ├── shipping_data_with_factories.csv
     └── geographic_bottleneck_analysis.csv
+data/
+└── Nassau Candy Distributor.csv.xls
 ```
 
-**Note:** The original dataset is not included in this repository pending approval to share it.
-
+**Note:** The original dataset is included in the `data/` folder with mentor approval. Shipping dates in the dataset require validation, so lead-time results should be interpreted cautiously.
