@@ -1,5 +1,8 @@
 # Nassau Candy Shipping Analysis
 
+## 🚀 Live Dashboard
+[Open the Nassau Candy Shipping Analysis Dashboard](https://h6fo4banwwgpnzahzrrhpq.streamlit.app/)
+
 ## Factory-to-Customer Shipping Route Efficiency Analysis
 
 ### Project Overview
